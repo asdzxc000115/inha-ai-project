@@ -15,6 +15,8 @@
 - `인공지능_미니프로젝트(심장병진단)_202144001_최민석.ipynb`: 메인 코드 (Jupyter Notebook)
 - `인공지능_미니프로젝트(심장병진단)_202144001_최민석.py`: Python 스크립트
 - `report.html`: 상세 보고서 ([보기](./report.html))
+
+> 💡 **보고서 보는 방법**: 위 파일 목록에서 `report.html` 파일을 클릭하세요.
   
 ## 기술 스택
 - Python, TensorFlow/Keras
