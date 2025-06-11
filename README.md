@@ -17,8 +17,8 @@
 - `report.html`: 상세 보고서 ([보기](./report.html))
   
 ## 온라인 보기
-- 🌐 **웹사이트**: https://asdzxc000115.github.io/inha-ai-project/
-- 📄 **보고서**: https://asdzxc000115.github.io/inha-ai-project/report.html
+- 🌐 **웹사이트**: https://asdzxc000115.github.io/inhatc-ai-project/
+- 📄 **보고서**: https://asdzxc000115.github.io/inhatc-ai-project/report.html
 - 💡 **보고서 보는 방법**: 위 파일 목록에서 `report.html` 파일을 클릭하세요.
   
 ## 기술 스택
